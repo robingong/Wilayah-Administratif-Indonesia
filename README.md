@@ -1,4 +1,4 @@
-# Data Provinsi, Kota/Kabupaten, Kecamatan, dan Kelurahan/Desa di Indonesia
+# Data Provinsi 省, Kota/Kabupaten 市县, Kecamatan地区, dan Kelurahan/Desa村 di Indonesia
 Data ini diambil dari situs [Pemutakhiran MFD dan MBS
 Badan Pusat Statistik (http://mfdonline.bps.go.id/)](http://mfdonline.bps.go.id/) pada **11 Januari 2018**.
 
@@ -15,7 +15,7 @@ with `a`, `i`, `u`, `e` and `o` as the keywords.
 
 ```
 +------+---------------------------+----------------+-----------+----------------+
-| Kode | Provinsi                  | Kabupaten/Kota | Kecamatan | Desa/Kelurahan |
+| Kode | Provinsi                  |Kabupaten/Kota市县|Kecamatan地区|Desa/Kelurahan村|
 +------+---------------------------+----------------+-----------+----------------+
 | 11   | ACEH                      |             23 |       289 |           6509 |
 | 12   | SUMATERA UTARA            |             33 |       448 |           6102 |
